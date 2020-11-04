@@ -1,0 +1,74 @@
+
+body {
+text-align: center;
+margin:0;
+}
+
+	header {
+	background-image:linear-gradient(rgba(200, 0, 0,0.5), rgba(0,300,255,0.5)),
+	url("images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+	height:300px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding-top:10px;
+	
+	}
+
+		h1 {
+		color: gold;
+		margin-top:0;
+		font-size: 60px;
+		padding-top:10px
+		}
+			#tiltle{
+			font-weight: 100px;
+			}			
+			.contact {
+			font-family: 'Lobster', cursive;
+			color:BlueViolet; 
+			}
+		img {
+		border: 5px solid Burlywood;
+		border-radius: 50%;
+		text-align: center;
+		}
+		h2 {
+		font-family: 'Lobster', cursive;
+		font-weight:normal;
+		}
+
+	main {
+	background: cornsilk;
+	height: 200px;
+	width: 500px;
+	margin: 100px auto;
+	padding:20px;
+	
+	
+
+	}
+		h3 {
+		margin-top:0;
+
+		}
+		form {
+		}
+			input {
+			padding:8px;
+			font-size: 12px;
+			}
+			button{
+			padding:8px 24px;
+			color:white;
+			background-color: green;
+			border-radius: 20px;
+			
+			{
+	footer{
+	font-size: 12px;
+	}
